@@ -1,0 +1,15 @@
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/bin/Debug/net8.0/WareHouseManager
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/bin/Debug/net8.0/WareHouseManager.deps.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/bin/Debug/net8.0/WareHouseManager.runtimeconfig.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/bin/Debug/net8.0/WareHouseManager.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/bin/Debug/net8.0/WareHouseManager.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.AssemblyInfoInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.AssemblyInfo.cs
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.csproj.CoreCompileInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.sourcelink.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/refint/WareHouseManager.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/WareHouseManager.genruntimeconfig.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/obj/Debug/net8.0/ref/WareHouseManager.dll

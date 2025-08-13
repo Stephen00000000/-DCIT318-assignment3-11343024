@@ -1,0 +1,15 @@
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/bin/Debug/net8.0/StudentResultProcessor
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/bin/Debug/net8.0/StudentResultProcessor.deps.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/bin/Debug/net8.0/StudentResultProcessor.runtimeconfig.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/bin/Debug/net8.0/StudentResultProcessor.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/bin/Debug/net8.0/StudentResultProcessor.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.AssemblyInfoInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.AssemblyInfo.cs
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.csproj.CoreCompileInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.sourcelink.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/refint/StudentResultProcessor.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/StudentResultProcessor.genruntimeconfig.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/WareHouseManager/StudentResultProcessor/obj/Debug/net8.0/ref/StudentResultProcessor.dll

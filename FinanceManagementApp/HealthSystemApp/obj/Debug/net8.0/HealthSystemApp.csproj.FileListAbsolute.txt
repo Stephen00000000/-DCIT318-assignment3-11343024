@@ -1,0 +1,15 @@
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/bin/Debug/net8.0/HealthSystemApp
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/bin/Debug/net8.0/HealthSystemApp.deps.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/bin/Debug/net8.0/HealthSystemApp.runtimeconfig.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/bin/Debug/net8.0/HealthSystemApp.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/bin/Debug/net8.0/HealthSystemApp.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.AssemblyInfoInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.AssemblyInfo.cs
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.csproj.CoreCompileInputs.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.sourcelink.json
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/refint/HealthSystemApp.dll
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.pdb
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/HealthSystemApp.genruntimeconfig.cache
+/workspaces/-DCIT318-assignment3-11343024/FinanceManagementApp/HealthSystemApp/obj/Debug/net8.0/ref/HealthSystemApp.dll

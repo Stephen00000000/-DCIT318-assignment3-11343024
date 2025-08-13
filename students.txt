@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, Bob Johnson, 76
+103, Carol Lee, 62
+104, David Brown, 55
+105, Eve White, 43
